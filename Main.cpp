@@ -14,11 +14,6 @@ cout<<"v2 has "<<v2.size()<<" elements";
 for(auto x:v2)
 cout<<x<<endl;
 	
-Data d0;
-Data d1 = {7,24.83};
-
-d0.setx(15);
-d0.sety(3.14);
 
 return 0;
 	
